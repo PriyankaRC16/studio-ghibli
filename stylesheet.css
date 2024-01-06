@@ -1,6 +1,7 @@
 body {
     background-image: url("images/studio ghibli.jpg");
     background-size: cover;
+    opacity: 30%;
     font-family: 'Open Sans';
     font-weight: bold;
     text-align: center;
